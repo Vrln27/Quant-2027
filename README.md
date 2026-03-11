@@ -8,6 +8,6 @@
 - Statistics & Time Series
 - Machine Learning applied to markets
 
-🚀 Goal: Quant Analyst role in London, Singapore or Dubai by 2028
+🚀 Goal: Quant Analyst by 2028
 
 📂 This repo documents my learning journey — week by week.
